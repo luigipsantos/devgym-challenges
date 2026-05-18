@@ -19,7 +19,7 @@ This repo is a progressive coding challenge where each day introduces new proble
 ```
 devgym-challenge/
 ├── README.md
-├── Day-01/ (If possible with a flavour!)
+├── Day-01/
 │   ├── Easy/
 │   ├── Medium/
 │   └── Hard/
@@ -28,7 +28,6 @@ devgym-challenge/
 └── ...
 ```
 
-
 ## How to Use This Repo
 
 1. Navigate to the current day's folder
@@ -36,12 +35,3 @@ devgym-challenge/
 3. Solve each problem in the corresponding difficulty folder
 4. Check the solution file for hints or reference implementations
 
-## Tips for Success
-
-  **One day, three problems**       — tackle Easy → Medium → Hard in order, don't skip ahead
-  **Timebox each problem**          — Easy ≤ 15min, Medium ≤ 30min, Hard ≤ 45min, then discuss as a pair
-  **Talk through your thinking**    — pair programming thrives on verbalizing your approach before writing code
-  **Disagree and commit**           — if you'd solve it differently, implement both and benchmark
-  **Review after every day**        — what patterns appeared? what would you do differently next sprint?
-
-Happy grinding! 💪
