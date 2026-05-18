@@ -3,6 +3,8 @@
 A structured, day-by-day dev gym challenge where each day has one Easy, one Medium, and one Hard problem.
 Progressively taking you from beginner to advanced, one problem at a time.
 
+- These challenges are meant to be done in pairs, the dev gym master will decide the teams. 
+
 ## About This Challenge
 
 This repo is a progressive coding challenge where each day introduces new problems across three difficulty levels:
