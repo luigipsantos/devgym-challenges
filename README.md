@@ -16,6 +16,7 @@ This repo is a progressive coding challenge where each day introduces new proble
 
 ## Repo Structure
 
+```
 devgym-challenge/
 ├── README.md
 ├── Day-01/ (If possible with a flavour!)
@@ -25,7 +26,7 @@ devgym-challenge/
 ├── Day-02/
 │   └── ...
 └── ...
-
+```
 
 
 ## How to Use This Repo
