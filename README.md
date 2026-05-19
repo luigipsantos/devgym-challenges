@@ -35,5 +35,4 @@ devgym-challenge/
 1. Navigate to the current day's folder
 2. Read the day's `README.md` for problem descriptions and links
 3. Solve each problem in the corresponding difficulty folder
-4. Check the solution file for hints or reference implementations
 
